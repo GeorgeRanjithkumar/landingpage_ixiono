@@ -1,0 +1,25 @@
+/* #card{
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+} */
+.signup-page{
+    display: flex;
+    justify-content: space-evenly;
+}
+.para {
+    color: white;
+    size: 15px;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    /* align-items: left; */
+}
+
+.button{
+    border-radius: 50px;
+}
+

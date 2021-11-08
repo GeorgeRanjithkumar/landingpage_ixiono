@@ -1,0 +1,42 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav>p{
+    color: white;
+    font-weight: 600;
+    font-size: xx-large;
+    margin: 0 0 0 40px;
+}
+.nav>ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    margin: 0  40px 0 0;
+}
+.nav>ul>li{
+    padding: 10px;
+    margin-left: 10px;
+}
+.login{
+    background-color: white !important;
+    padding: 3px 10px !important; 
+}
+.login>a{
+    color: blue !important;
+    text-decoration: none;
+}
+.sign{
+    padding: 3px 10px !important;
+    border: 1px solid white !important;
+}
+.sign>a{
+    color: white !important;
+    text-decoration: none;
+}
+.nav>ul>li>a{
+    text-decoration: none;
+    color: white;
+}

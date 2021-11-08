@@ -1,0 +1,6 @@
+.app{
+  background-color: rgba(13, 13, 238, 0.932);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
